@@ -1,4 +1,4 @@
-# 🛒 Retail Analytics Dashboard
+# 🛒 Retail Sales & Customer Insights Dashboard
 
 This project is an end-to-end data analytics pipeline that uses **Excel**, **Python**, **MySQL**, and **Power BI** to deliver business insights from sales, customer, and marketing data.
 
